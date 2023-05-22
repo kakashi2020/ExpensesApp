@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/http//kakashi2010.github.io/ExpensesApp/static/css/main.94481e1f.css",
-    "main.js": "/http//kakashi2010.github.io/ExpensesApp/static/js/main.ba6db9db.js",
-    "static/js/787.28cb0dcd.chunk.js": "/http//kakashi2010.github.io/ExpensesApp/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/http//kakashi2010.github.io/ExpensesApp/index.html",
-    "main.94481e1f.css.map": "/http//kakashi2010.github.io/ExpensesApp/static/css/main.94481e1f.css.map",
-    "main.ba6db9db.js.map": "/http//kakashi2010.github.io/ExpensesApp/static/js/main.ba6db9db.js.map",
-    "787.28cb0dcd.chunk.js.map": "/http//kakashi2010.github.io/ExpensesApp/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/http//kakashi2020.github.io/ExpensesApp/static/css/main.94481e1f.css",
+    "main.js": "/http//kakashi2020.github.io/ExpensesApp/static/js/main.eb68e83c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/http//kakashi2020.github.io/ExpensesApp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/http//kakashi2020.github.io/ExpensesApp/index.html",
+    "main.94481e1f.css.map": "/http//kakashi2020.github.io/ExpensesApp/static/css/main.94481e1f.css.map",
+    "main.eb68e83c.js.map": "/http//kakashi2020.github.io/ExpensesApp/static/js/main.eb68e83c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/http//kakashi2020.github.io/ExpensesApp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94481e1f.css",
-    "static/js/main.ba6db9db.js"
+    "static/js/main.eb68e83c.js"
   ]
 }
